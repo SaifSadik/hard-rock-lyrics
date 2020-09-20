@@ -41,4 +41,17 @@ body{
 .single-lyrics{
     display: none;
 }
+#lyrics {
+    text-align: center;
+    color: white;
+}
+#search-result{
+    text-align: center;
+}
+.author{
+    display: none;
+}
+.search-result{
+    display: none;
+}
 
